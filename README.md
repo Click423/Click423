@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Click423
 - 👀 I’m interested in Computers, Hacking
 - 🌱 I’m currently learning How to make custom linux distro
-- 💞️ I’m looking to collaborate on GooseOS
-- 📫 How to reach me email: gooseosdev@gmail.com
